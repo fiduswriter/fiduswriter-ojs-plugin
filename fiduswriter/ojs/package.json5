@@ -1,7 +1,7 @@
 {
     dependencies: {
-        "@fiduswriter/document": "^0.3.32",
-        "@fiduswriter/editor": "^0.2.40",
+        "@fiduswriter/document": "^0.3.39",
+        "@fiduswriter/editor": "^0.2.46",
         "prosemirror-model": "^1.24.1",
         "prosemirror-state": "^1.4.4"
     }
